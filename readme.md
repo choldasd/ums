@@ -20,14 +20,14 @@ To run application user below instruction.
 ## Credentials
 
 User Credentail 
-Active Status - 
+- Active Status - 
 username - john@gmail.com
 password - user@123
 
 username - rahul@gmail.com
 password - user@123
 
-Disable Status - 
+- Disable Status - 
 username - amol@gmail.com
 password - user@123
 
@@ -35,6 +35,7 @@ username - james@gmail.com
 password - user@123
 
 Admin credential 
+- Admin - 
 username - johnad@gmail.com
 password - admin@123
 
