@@ -10,8 +10,8 @@
 ## About User Managment
 
 To run application user below instruction.
-
- - Create DB - ums
+ - Rename .env.example file to .env file
+ - Create Database - ums
  - Run command - php artisan migrate
  - Run command - php artisan db:seed --class=UsersTableSeeder
  - Run command - php artisan db:seed --class=AdminsTableSeeder
@@ -49,6 +49,8 @@ CheckStatus middleware to check the status of users.
 
 - Request Validation
 StoreUser and UpdateUser Validation.
+
+- For listing of users use DataTable js package in which you must load data using ajax.
 
 ## License
 
